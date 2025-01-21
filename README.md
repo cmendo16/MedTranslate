@@ -47,4 +47,8 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
+
+# About the MedTranslate Project
+
+MedTranslate is a comprehensive, real-time translation tool designed to bridge communication gaps in healthcare settings, particularly in pharmacies. The app provides accurate translations of medical and pharmacy-specific terms between English and Spanish, enhancing accessibility and improving patient care. With features like a searchable phrase library, medication-specific guidance, and cultural sensitivity tips, MedTranslate ensures effective communication while prioritizing user privacy and regulatory compliance (e.g., HIPAA).
 ```
