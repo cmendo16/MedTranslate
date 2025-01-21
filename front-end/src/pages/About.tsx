@@ -1,11 +1,12 @@
 import '../index.css'
+import React from 'react'; 
 
-function Mission() {
+function About() {
   return (
     <div className="bg-blue-500 text-white text-center p-4">
-    Main Content stuff 
+    This is the about page 
   </div>
   );
 }
 
-export default Mission;
+export default About;

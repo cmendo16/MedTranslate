@@ -1,11 +1,11 @@
 import '../index.css'
-
-function Login() {
+import React from 'react'; 
+function Mission() {
   return (
     <div className="bg-blue-500 text-white text-center p-4">
-        This is the login page 
+    Main Content stuff 
   </div>
   );
 }
 
-export default Login;
+export default Mission;
